@@ -1,2 +1,4 @@
 # SSSR_Framework
-Global evolution of sustainability topics in smart-service industries: insights from a cross-sector hybrid LLMs approach
+## Global evolution of sustainability topics in smart-service industries: insights from a cross-sector hybrid LLMs approach
+
+As digitalization and intelligentization integrate into smart-service industries, new challenges arise for corporate sustainability. This study analyzes 7,858 sustainability reports across five sectors (consumer goods, technology, finance, healthcare, and services) to propose a Smart Service Social Responsibility (SSSR) framework which integrates responsibility dimensions, operational spaces, and key stakeholders. Our hybrid TF-IDF and LLM approach reveals emerging topics and demonstrates that LLMs can encode SSSR knowledge, offering experts and scholars a comprehensive understanding. This panoramic view of global firms’ evolving sustainability strategies equips policymakers and business leaders with actionable insights to drive responsible innovation and cross-sector collaboration.
